@@ -1,1 +1,1 @@
-The project is about taking a screenshot using python libraries like pyautogui, tkinter.
+The project is about taking a screenshot using python libraries like pyautogui, tkinter. The screenshot taken also shows the tkinter window. One can by using the time library just lapse the tkinter window for few seconds while the screenshot is being taken. This is what I could think and it worked out well.
